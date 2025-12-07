@@ -2,7 +2,7 @@ const env = process.env.NODE_ENV;
 
 const map = {
     dev: {
-        baseUrl: "http://de1-wgl-wlt.allstar-interactive.com:7777",
+        baseUrl: "http://bw-wallet:7777",
     },
 
     qa: {
