@@ -2,7 +2,7 @@ const env = process.env.NODE_ENV;
 
 const map = {
     dev: {
-        baseUrl: "http://redis-wallet-float:7778",
+        baseUrl: "http://wallet:7777",
     },
 
     qa: {
